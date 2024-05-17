@@ -17,11 +17,25 @@ To run this application we have to execute app.py:
 
 *Methods*
 
-GET 	http://[hostname]/todo/api/v1/tasks 			Retrive a list of tasks
-GET 	http://[hostname]/todo/api/v1/tasks/[task_id]		Retrive a task
-POST	http://[hostname]/todo/api/v1/tasks			Creae a new task
-PUT	http://[hostname]/todo/api/v1/tasks/[task_id]		Update an existing task
-DELETE	http://[hostname]/todo/api/v1/tasks/[task_id]		Delete a task
+`
+GET 	    http://[hostname]/todo/api/v1/tasks 			  Retrive a list of tasks
+`
+
+`
+GET 	    http://[hostname]/todo/api/v1/tasks/[task_id]		  Retrive a task
+`
+
+`
+POST	    http://[hostname]/todo/api/v1/tasks			          Creae a new task
+`
+
+`
+PUT	    http://[hostname]/todo/api/v1/tasks/[task_id]		  Update an existing task
+`
+
+`
+DELETE	    http://[hostname]/todo/api/v1/tasks/[task_id]		  Delete a task
+`
 
 
 *Usage*
